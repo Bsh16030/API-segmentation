@@ -1,0 +1,18 @@
+# Framework Web
+fastapi
+uvicorn[standard]
+gunicorn
+
+T# raitement du Signal et Audio
+numpy==1.26.4  # Version stable compatible avec les autres librairies
+scipy
+librosa
+soundfile
+matplotlib
+noisereduce
+
+# Utilitaires
+python-dotenv
+
+# SDK Spécifique
+megamicros-aidb
