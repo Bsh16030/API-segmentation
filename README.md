@@ -1,8 +1,5 @@
 # API d'Analyse Audio Porcin - Guide Technique
 
-**Version :** FINALE
-**Contact :** [Votre Nom/Email]
-
 Ce document est un guide rapide pour installer, lancer et utiliser l'API d'analyse.
 
 ---
