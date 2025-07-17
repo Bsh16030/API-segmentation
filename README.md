@@ -13,8 +13,8 @@ Ce document est un guide rapide pour installer, lancer et utiliser l'API d'analy
 
 1.  **Cloner le Dépôt**
     ```bash
-    git clone [URL_de_votre_dépôt]
-    cd [nom_du_dépôt]
+    git clone git clone https://github.com/Bsh16030/API-segmentation.git
+    cd API-segmentation
     ```
 
 2.  **Créer et Activer l'Environnement Virtuel**
