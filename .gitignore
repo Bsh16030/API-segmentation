@@ -1,0 +1,22 @@
+# Environnements virtuels
+/venv/
+/env/
+/.venv/
+/ENV/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de configuration locaux
+.env
+*.local
+
+# Fichiers générés
+*.wav
+*.png
+
+# Fichiers IDE
+.vscode/
+.idea/
