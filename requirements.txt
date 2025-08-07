@@ -3,7 +3,7 @@ fastapi
 uvicorn[standard]
 gunicorn
 
-T# raitement du Signal et Audio
+# Traitement du Signal et Audio
 numpy==1.26.4  # Version stable compatible avec les autres librairies
 scipy
 librosa
